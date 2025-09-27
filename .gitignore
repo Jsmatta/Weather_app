@@ -1,0 +1,4 @@
+Config.swift
+*.plist.secret
+secrets/
+.env

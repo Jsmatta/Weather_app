@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D2EA787C2E887CA3003CE1E0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D2EA787B2E887C9E003CE1E0 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D24720102E886020000C812F /* Weather_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2EA787B2E887C9E003CE1E0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		D24720072E886020000C812F = {
 			isa = PBXGroup;
 			children = (
+				D2EA787B2E887C9E003CE1E0 /* .gitignore */,
 				D24720122E886020000C812F /* Weather_app */,
 				D24720112E886020000C812F /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2EA787C2E887CA3003CE1E0 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
